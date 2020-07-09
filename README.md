@@ -1,4 +1,4 @@
-### my name is Tim and I ~design~ build software.
+### [my name is Tim and I ~design~ build software.](https://tmdvs.dev)
 ```
                                                
       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     
