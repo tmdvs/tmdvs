@@ -14,4 +14,4 @@
 ```
 
 
-I’m a full-stack engineer 🛠️ with a passion for making things 🖌️, and have been for over 10 years. I live in the 🇬🇧, and work with the talented folks at [Sketch](https://github.com/sketch-hq/) 💎✨
+I’m an everything developer and engineering leader 🛠️ with a passion for making things! I've worked in design and development for 15 years, and in that time have been a `frontender`, `backender`, built `iOS` apps, and contributed to `macOS` projects. I live in the 🇬🇧, and currently work as a product manager & tech lead with the talented folks at [Sketch](https://github.com/sketch-hq/) 💎✨
