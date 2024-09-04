@@ -14,4 +14,8 @@
 ```
 
 
-I’m an everything developer and engineering leader 🛠️ with a passion for making things! I've worked in design and development for 15 years, and in that time have been a `frontender`, `backender`, built `iOS` apps, and contributed to `macOS` projects. I live in the 🇬🇧, and currently work as a product manager & tech lead with the talented folks at [Sketch](https://github.com/sketch-hq/) 💎✨
+#### I’m an everything developer and engineering leader with a passion for making things! 🛠️
+
+I've worked in design and development for 15 years, and during that time I have been a **`frontender`**, a **`backender`**, I've built **`iOS`** apps, contributed to **`macOS`** projects, and a product and tech leader. 
+
+I live in the 🇬🇧, and currently work as a _product manager & tech lead_ with the talented folks at [**Sketch**](https://github.com/sketch-hq/) 💎✨
